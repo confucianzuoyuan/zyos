@@ -1,10 +1,6 @@
 //============================================================================
 /// @file       dump.h
 /// @brief      Debugging memory and CPU state dump routines.
-//
-//  Copyright 2016 Brett Vickers.
-//  Use of this source code is governed by a BSD-style license
-//  that can be found in the MonkOS LICENSE file.
 //============================================================================
 
 #pragma once

@@ -3,10 +3,6 @@
 /// @brief      Write formatted data from a variable argument list to a sized
 //              buffer.
 //
-// Copyright 2016 Brett Vickers.
-// Use of this source code is governed by a BSD-style license that can
-// be found in the MonkOS LICENSE file.
-//
 // This file is a heavily-modified version of the klibc vsnprintf function,
 // found at:
 //
